@@ -80,7 +80,8 @@
       Visual Representation
       Tracking Progress 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-      
+      The core issues my software aims to address includes:
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
