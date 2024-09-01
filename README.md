@@ -11,8 +11,8 @@
       Identifying potential risks early and having a contingency plan in place
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
-      Effective cost control ensures that the project remains financially viable and that resources are used efficiently contributing to profitability, stakeholder satisfaction 
-      and the sustainability of the project.
+      Effective cost control ensures that the project remains financially viable and that resources are used efficiently contributing to profitability, stakeholder 
+      satisfaction and the sustainability of the project.
 
       Strategies to prevent budget overrun include:
       Developing a realisting budget that considers all possible costs including hidden or unexpected expenses
@@ -83,9 +83,45 @@
       Tracking Progress 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
       The core issues my software aims to address includes:
+      Inefficient Finacial Tracking : Many users struggle with tracking their income, expenses and savings efficiently, leading to poor financial management.
+      Lack of Budgeting Tools: Users often lack easy-to use tools to create and manage budgeta, making it difficult to plan for future financial goals
+      Data Overload: Users can be overwhelmed by the amount of finacial data available leading to confusion and poor decision-making
+
+      These problems are significant to my target audience because:
+      Effective financial tracking and budgeting are essential for achieving financial stability and reaching personal financial goals
+      Steamlining the process of managing finances saves users time, allowing them to focus on other priorities
+      By providing clear insights and tools, users can make informed decisions that improve their financial well-being
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+      Clearly defining the problem helps by:
+      Ensuring the software is designed to address the specific needs and pain points of the users
+      Allowing for the efficient allocation of resources towards sollving the most critical aspects of the problem
+      Makes it easier to measure success because it provides clear objectives that the software needs to achieve
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+       My software is a user-friendly financial tracking and budgeting tool designed to help individuals and families to easily manage their finances. It simplifies the 
+       process of monitoring income and expenses, setting up budgets, and planning for future goals. With intuitive features and real time insights, our software empowers 
+       users to take control of their financal health and make informed decisions.
+  
 ## 11. What are the main features or functionalities that make your software stand out?
+      Customizable Budgets
+      Automated Tracking
+      Real-time Insights
+      Digestable financial education
+      User friendly Interface
+      Security
 ## 12. What data is available regarding the market size and growth potential for your software?
+       The data currently available regarding the market size and groith potential for a fintech software includes:
+       The global fintech market was valued at approximately $110.57 billion in 2020 however reports indicate that future growth projections are estimated at about $ 608.35 
+       billion by 2029.
+       
+       There is a growing demand for personal finance management tools as consumers increasingly seek to manage their finances digitally.Reports indicate that over 90% of 
+       Millenials and Gen Z exhibit high adoption rates of digital banking services utilizing mobile banking apps, reflecting a significant shift towards digital financial 
+       solutions.
+ 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+       Understanding market trends helps in:
+       Identifying user's needs
+       Understanding what competitors are offering in order to uniquely position your software
+       Ensuring your software stays up to date and relevant
+       
